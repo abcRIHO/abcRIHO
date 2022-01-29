@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=abcRIHO)](https://github.com/abcRIHO/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=abcriho)](https://velog.io/@eungyeole) 
 
 <!--
 **abcRIHO/abcRIHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
